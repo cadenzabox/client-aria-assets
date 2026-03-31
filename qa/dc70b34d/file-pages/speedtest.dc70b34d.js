@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[213],{3890:function(t,e,n){"use strict";n.r(e);var s=n(0),o=Object(s.a)({},(function(){return(0,this._self._c)("div",{staticClass:"container breathe-3x text-center",domProps:{textContent:this._s("Page Speed Test")}})}),[],!1,null,null,null);e.default=o.exports}}]);
